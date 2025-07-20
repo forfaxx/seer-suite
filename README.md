@@ -4,6 +4,8 @@
 Analyze files, inspect processes, query packages, and probe your LAN—right from your terminal.
 
 ---
+![Seer Suite demo](seer-suit.gif)
+
 
 ## 🚀 What’s Inside
 
